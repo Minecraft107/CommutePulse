@@ -1,0 +1,6 @@
+{
+  "name": "CommutePulse - Real-Time Traffic & Commuter Incident Radar",
+  "description": "Live highway traffic conditions, real-time congestion heatmaps, active incident alerts, commute corridor delay forecasts, and camera feeds for daily commuters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
